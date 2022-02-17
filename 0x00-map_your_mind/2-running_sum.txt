@@ -1,0 +1,6 @@
+get n from user
+set sum = 0
+while n >= 0
+    sum = sum + n
+    get n from user
+print sum
